@@ -1,0 +1,34 @@
+*{
+font-size: 14px;
+font-family: Trebuchet MS;
+
+}
+
+QLabel {
+font-size: 17px;
+font-style: bold;
+color: darkblue
+}
+
+
+QDialog {  background: #e8e0bb } 
+
+QPushButton {
+    padding: 0px 12px;
+    border-radius: 15px;
+    height: 30px;
+    background-color: rgb(19, 159, 215);
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(19, 159, 215)
+    }
+
+QLineEdit {
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    padding: 0 8px;
+    background: rgb(250, 255, 189);
+    selection-background-color: darkgray;
+    font-weight: 400;
+    height: 30px;
+}
+

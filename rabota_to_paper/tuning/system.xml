@@ -1,0 +1,7 @@
+<config>
+    <basic>
+        <dir_out>c:\</dir_out>
+        <file_out>spider.csv</file_out>
+        <request>https://www.rabota.ru/admin/index.php?area=v3_base&action=search&start%</request>
+    </basic>
+</config>

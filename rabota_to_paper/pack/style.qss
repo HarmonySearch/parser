@@ -1,0 +1,38 @@
+*{
+font-size: 14px;
+font-family: Calibri;
+
+}
+
+QLabel {
+font-size: 16px;
+font-style: bold;
+color: darkblue
+}
+
+
+QDialog {  background: whitesmoke } /* комметарий допустим */
+
+QPushButton {
+    border: 1px solid black;
+    padding: 0px 12px;
+    height: 21px;
+    font-size: 16px;
+    min-width: 100px
+}
+        
+     
+QPushButton:pressed {
+    background-color: red;
+}
+
+QLineEdit {
+    border: 1px solid rgb(204, 204, 204);
+    border-radius: 4px;
+    padding: 0 8px;
+    background: rgb(250, 255, 189);
+    selection-background-color: darkgray;
+    font-weight: 400;
+    height: 30px;
+}
+

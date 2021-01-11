@@ -1,0 +1,12 @@
+v3_rabota=2a2fvimj5k6oo3tjov1psr5455m5frn4mm141be4bla2nltgpghbm9j5ro627rbpjf5cguc15ep87h9nb7bsu2dhssbhfpa6bonrbl2; HttpOnly; domain=.rabota.ru; path=/
+OAGEO=RU%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C; domain=slave2.b.rabota.ru; path=/
+OAGEO=RU%7C%7C%7C%7C%7C%7C%7C%7C%7C%7C; domain=slave3.b.rabota.ru; path=/
+_ym_uid=149683546482074966; expires=Tue, 28-May-2019 11:37:43 GMT; domain=.rabota.ru; path=/
+_ym_isad=2; expires=Thu, 08-Jun-2017 07:37:43 GMT; domain=.rabota.ru; path=/
+yandexuid=9930030681496835462; expires=Sat, 05-Jun-2027 11:37:42 GMT; domain=.rabota.ru; path=/
+resume_version=old; expires=Sat, 09-Feb-2019 05:18:33 GMT; domain=.rabota.ru; path=/
+sid=XL09MLl9WKTcnrcEgqPebjum503ksaj9; HttpOnly; domain=.rabota.ru; path=/
+JSESSIONID=4c98835badcfe11d; secure; domain=.nr-data.net; path=/
+prsid=122; expires=Tue, 12-Mar-2019 14:35:18 GMT; domain=.rabota.ru; path=/
+AB_1=1; expires=Thu, 14-Mar-2019 14:35:18 GMT; domain=.rabota.ru; path=/
+AB_1_pred=1; expires=Thu, 14-Mar-2019 14:35:18 GMT; domain=.rabota.ru; path=/

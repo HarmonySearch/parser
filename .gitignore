@@ -1,0 +1,9 @@
+*.pdf
+*.djvu
+*.whl
+*.gz
+*.exe
+*.bz2
+geckodriver
+*.log
+*.pyz
